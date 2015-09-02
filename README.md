@@ -1,2 +1,3 @@
 # hello-world
-hello world repo
+
+Moje pierwsze repozytorium ;)
